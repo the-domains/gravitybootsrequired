@@ -1,0 +1,14 @@
+layout_spectrum: 0.4426523
+color:
+  saturation: 0.08246968
+  lightness: 0.2148583
+  brandStrength: 1
+  brandColors:
+    - '#88919A'
+    - '#4B4A43'
+    - '#0C0E0E'
+    - '#F1F3F3'
+    - '#BBBFC5'
+  rhythmicContrast: 0.5187877
+typography_spectrum: 0.466005
+name: Gravitybootsrequired
